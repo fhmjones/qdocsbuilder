@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+parts:
+- caption: Project & Outcomes
+  chapters:
+  - file: project-outline
+- caption: References
+  chapters:
+  - file: refs
